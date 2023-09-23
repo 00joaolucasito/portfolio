@@ -1,0 +1,97 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #16001c;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #250030;
+    ;
+    padding: 1rem 0;
+}
+
+nav li {
+    margin: 0 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 2rem;
+}
+
+section h2 {
+    font-size: 1.5rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #250030;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+#sobre{
+    border-radius: 30px;
+    background-color: #8d31a9;
+    color: #000;
+    padding: 50px;
+    margin: 50px;
+}
+
+#portfolio{
+    border-radius: 30px;
+    background-color: #8d31a9;
+    color: #000;
+    padding: 50px;
+    margin: 50px;
+}
+
+#contato{
+    border-radius: 30px;
+    background-color: #8d31a9;
+    color: #000;
+    padding: 50px;
+    margin: 50px;
+}
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    section {
+        padding: 1rem;
+    }
+}
