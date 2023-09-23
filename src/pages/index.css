@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #000;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
@@ -66,15 +66,34 @@ footer {
 #sobre{
     border-radius: 30px;
     background-color: #8d31a9;
-    color: #000;
+    color: #ffffff;
     padding: 50px;
     margin: 50px;
 }
 
+
+#formação{
+    border-radius: 30px;
+    background-color: #8d31a9;
+    color: #ffffff;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+#cursos{
+    border-radius: 30px;
+    background-color: #8d31a9;
+    color: #ffffff;
+    padding: 50px;
+    margin: 50px;
+}
+
+
 #portfolio{
     border-radius: 30px;
     background-color: #8d31a9;
-    color: #000;
+    color: #ffffff;
     padding: 50px;
     margin: 50px;
 }
@@ -82,7 +101,7 @@ footer {
 #contato{
     border-radius: 30px;
     background-color: #8d31a9;
-    color: #000;
+    color: #ffffff;
     padding: 50px;
     margin: 50px;
 }
